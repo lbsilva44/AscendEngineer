@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ascend.Api/Ascend.Api.csproj" />
+    <Project Path="src/Ascend.Application/Ascend.Application.csproj" />
+    <Project Path="src/Ascend.Domain/Ascend.Domain.csproj" />
+    <Project Path="src/Ascend.Infrastructure/Ascend.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Ascend.Api.IntegrationTests/Ascend.Api.IntegrationTests.csproj" />
+    <Project Path="tests/Ascend.Application.Tests/Ascend.Application.Tests.csproj" />
+    <Project Path="tests/Ascend.Domain.Tests/Ascend.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
